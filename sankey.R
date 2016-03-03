@@ -1,5 +1,5 @@
 # installation
-install.packages("RGA")
+# install.packages("RGA")
 library(RGA)
 authorize()
 id <- 000000000 # your accound id here
